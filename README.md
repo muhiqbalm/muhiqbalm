@@ -7,6 +7,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=muhiqbalm alt=muhiqbalm /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=muhiqbalm&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/muhiqbalm/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=muhiqbalm&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github.com/muhiqbalm/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiqbalm&layout=compact&theme=radical)](https://github.com/muhiqbalm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiqbalm&layout=compact&theme=highcontrast)](https://github.com/muhiqbalm/github-readme-stats)
